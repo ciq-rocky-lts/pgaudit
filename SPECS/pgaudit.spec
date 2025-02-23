@@ -53,4 +53,4 @@ trail or audit log. The term audit log is used in this documentation.
 - Update to 16.0
 - Support postgresql 16
 - Initial import for PG 16 module
-- Resolves: RHEL-3636
+- Resolves: RHEL-3635
